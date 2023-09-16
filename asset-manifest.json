@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Cryptosphere/static/css/main.67f2b070.chunk.css",
-    "main.js": "/Cryptosphere/static/js/main.32e4016b.chunk.js",
-    "main.js.map": "/Cryptosphere/static/js/main.32e4016b.chunk.js.map",
-    "runtime-main.js": "/Cryptosphere/static/js/runtime-main.4f7a4ddc.js",
-    "runtime-main.js.map": "/Cryptosphere/static/js/runtime-main.4f7a4ddc.js.map",
-    "static/css/2.2b8316e7.chunk.css": "/Cryptosphere/static/css/2.2b8316e7.chunk.css",
-    "static/js/2.6c6e7c24.chunk.js": "/Cryptosphere/static/js/2.6c6e7c24.chunk.js",
-    "static/js/2.6c6e7c24.chunk.js.map": "/Cryptosphere/static/js/2.6c6e7c24.chunk.js.map",
+    "main.js": "/Cryptosphere/static/js/main.30729f30.chunk.js",
+    "main.js.map": "/Cryptosphere/static/js/main.30729f30.chunk.js.map",
+    "runtime-main.js": "/Cryptosphere/static/js/runtime-main.6d1520a3.js",
+    "runtime-main.js.map": "/Cryptosphere/static/js/runtime-main.6d1520a3.js.map",
+    "static/css/2.db13360c.chunk.css": "/Cryptosphere/static/css/2.db13360c.chunk.css",
+    "static/js/2.61d071da.chunk.js": "/Cryptosphere/static/js/2.61d071da.chunk.js",
+    "static/js/2.61d071da.chunk.js.map": "/Cryptosphere/static/js/2.61d071da.chunk.js.map",
     "index.html": "/Cryptosphere/index.html",
-    "static/css/2.2b8316e7.chunk.css.map": "/Cryptosphere/static/css/2.2b8316e7.chunk.css.map",
+    "static/css/2.db13360c.chunk.css.map": "/Cryptosphere/static/css/2.db13360c.chunk.css.map",
     "static/css/main.67f2b070.chunk.css.map": "/Cryptosphere/static/css/main.67f2b070.chunk.css.map",
-    "static/js/2.6c6e7c24.chunk.js.LICENSE.txt": "/Cryptosphere/static/js/2.6c6e7c24.chunk.js.LICENSE.txt",
+    "static/js/2.61d071da.chunk.js.LICENSE.txt": "/Cryptosphere/static/js/2.61d071da.chunk.js.LICENSE.txt",
     "static/media/cryptocurrency.1548aced.png": "/Cryptosphere/static/media/cryptocurrency.1548aced.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f7a4ddc.js",
-    "static/css/2.2b8316e7.chunk.css",
-    "static/js/2.6c6e7c24.chunk.js",
+    "static/js/runtime-main.6d1520a3.js",
+    "static/css/2.db13360c.chunk.css",
+    "static/js/2.61d071da.chunk.js",
     "static/css/main.67f2b070.chunk.css",
-    "static/js/main.32e4016b.chunk.js"
+    "static/js/main.30729f30.chunk.js"
   ]
 }
