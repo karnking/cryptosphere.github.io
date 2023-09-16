@@ -31,7 +31,7 @@ const Exchanges = () => {
                 key={exchange.id}
                 showArrow={false}
                 header={
-                  <>
+                  <Row>
                     <Col span={6}>
                       <Text>
                         <strong>{exchange.trust_score_rank}.</strong>
@@ -44,13 +44,13 @@ const Exchanges = () => {
                         <strong>{exchange.name}</strong>
                       </Text>
                     </Col>
-                    <Col span={6}>{exchange.year_established}</Col>
+                    <Col span={7}>{exchange.year_established}</Col>
                     <Col span={6}>{millify(exchange.trade_volume_24h_btc)}</Col>
-                    <Col span={6}>{exchange.trust_score}</Col>
-                  </>
+                    <Col span={5}>{exchange.trust_score}</Col>
+                  </Row>
                 }
               >
-                {HTMLReactParser(exchange.description || "")}
+                {exchange?.description || `${exchange?.country} - ${exchange?.url}` || ""}
               </Panel>
             </Collapse>
           </Col>

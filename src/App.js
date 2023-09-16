@@ -1,5 +1,5 @@
 import React from "react";
-import { Routes, Route, Link } from "react-router-dom";
+import {  Route, Link, Routes } from "react-router-dom";
 
 import { Layout, Typography, Space } from "antd";
 import "./App.css";
@@ -23,19 +23,20 @@ const App = () => {
         <Layout>
           <div className="routes">
             <Routes>
-              <Route exact path="/Cryptosphere/">
+              <Route path="/Cryptosphere">
                 <Homepage />
+                {/* <h1>Homepage</h1> */}
               </Route>
-              <Route exact path="/exchanges">
+              <Route path="/exchanges">
                 <Exchanges />
               </Route>
-              <Route exact path="/cryptocurrencies">
+              <Route path="/cryptocurrencies">
                 <Cryptocurrencies />
               </Route>
-              <Route exact path="/crypto/:coinId">
+              <Route path="/crypto/:coinId">
                 <CryptoDetails />
               </Route>
-              <Route exact path="/news">
+              <Route path="/news">
                 <News />
               </Route>
             </Routes>
@@ -47,11 +48,11 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            Cryptoverse <br />
+            Cryptosphere <br />
             All rights not reserved
           </Typography.Title>
           <Space>
-            <Link to="/Cryptosphere/">Home</Link>
+            <Link to="/Cryptosphere">Home</Link>
             <Link to="/exchanges">Exchanges</Link>
             <Link to="/news">News</Link>
           </Space>
