@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cryptosphere.github.io/static/css/main.67f2b070.chunk.css",
-    "main.js": "/cryptosphere.github.io/static/js/main.5de506d9.chunk.js",
-    "main.js.map": "/cryptosphere.github.io/static/js/main.5de506d9.chunk.js.map",
+    "main.js": "/cryptosphere.github.io/static/js/main.a6822218.chunk.js",
+    "main.js.map": "/cryptosphere.github.io/static/js/main.a6822218.chunk.js.map",
     "runtime-main.js": "/cryptosphere.github.io/static/js/runtime-main.ae73728b.js",
     "runtime-main.js.map": "/cryptosphere.github.io/static/js/runtime-main.ae73728b.js.map",
     "static/css/2.db13360c.chunk.css": "/cryptosphere.github.io/static/css/2.db13360c.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.db13360c.chunk.css",
     "static/js/2.9d7fb66a.chunk.js",
     "static/css/main.67f2b070.chunk.css",
-    "static/js/main.5de506d9.chunk.js"
+    "static/js/main.a6822218.chunk.js"
   ]
 }
