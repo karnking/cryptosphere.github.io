@@ -1,8 +1,8 @@
 {
-  "homepage": "https://karnking.github.io/Cryptosphere",
+  "homepage": "https://karnking.github.io/cryptosphere.github.io",
   "name": "crypto_app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@reduxjs/toolkit": "^1.6.2",
